@@ -1,0 +1,1 @@
+alert("Você acessou a página inicial. Seja bem-vindo!")
