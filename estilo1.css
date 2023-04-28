@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&family=Poltawski+Nowy&display=swap');
+
+body {
+    background: linear-gradient(to right,  violet, white);
+}
+
+.container {
+    width: 100%;
+    height: 900px;
+    margin: auto;
+}
+
+#menu{
+    width: 100%;
+    height: 44px;
+    text-align: center;
+}
+
+#menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 7px;
+}
+
+#menu ul li a {
+    font-family: 'Poltawski Nowy';
+    font-size: 20px;
+    color:#fff;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    background-color: palevioletred;
+    color: whitesmoke;
+    padding: 4px;
+}
+
+h1, h6 {
+    font-family: 'Josefin Sans';
+    font-size: 44px;
+    font-weight: normal;
+    color: black
+    
+}
+
+h2 {
+    font-family: 'Poltawski Nowy';
+    font-size: 19px;
+    font-weight: lighter;
+    color: rgb(28, 27, 27);
+    
+}
+
+h3 {
+    font-family: 'Poltawski Nowy';
+    font-size: 13px;
+    font-weight: lighter;
+    color: rgb(28, 27, 27);
+    
+}
+
+h4 {
+    font-family: 'Poltawski Nowy';
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(28, 27, 27);
+    background-color: lightpink;
+    text-align: center;
+    
+}
+
+h5 {
+    font-family: 'Poltawski Nowy';
+    font-size: 16px;
+    font-weight: lighter;
+    color: rgb(28, 27, 27);
+    text-align: center;
+    
+}
+
+form {
+    font-family: 'Poltawski Nowy';
+    font-size: 19px;
+    font-weight: lighter;
+    color: rgb(28, 27, 27);
+    text-align: center;
+    
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 50px;
+}
