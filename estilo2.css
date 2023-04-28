@@ -30,7 +30,7 @@ body {
 }
 
 #menu ul li a:hover {
-    background-color: palevioletred;
+    background-color: lightblue;
     color: whitesmoke;
     padding: 4px;
 }
